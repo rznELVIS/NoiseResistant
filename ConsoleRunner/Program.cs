@@ -1,5 +1,5 @@
 ﻿using SystemModel;
 
-var model = new Model()
+var model = new DataTransmissionSystemModel();
 
 Console.WriteLine("Hello, Runner!");
