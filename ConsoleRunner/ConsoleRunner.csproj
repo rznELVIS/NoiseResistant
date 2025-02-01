@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="../SystemModel/SystemModel.csproj" />
+  </ItemGroup>
+
 </Project>

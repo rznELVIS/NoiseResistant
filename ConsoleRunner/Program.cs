@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using SystemModel;
+
+var model = new Model()
+
 Console.WriteLine("Hello, Runner!");
