@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemModel", "SystemModel\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleRunner", "ConsoleRunner\ConsoleRunner.csproj", "{8C73C8F6-89C5-42E5-A182-FAD7592895E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGenerator", "DataGenerator\DataGenerator.csproj", "{3965FE09-380A-4DC1-8EF3-83523CC16C6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{8C73C8F6-89C5-42E5-A182-FAD7592895E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C73C8F6-89C5-42E5-A182-FAD7592895E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C73C8F6-89C5-42E5-A182-FAD7592895E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3965FE09-380A-4DC1-8EF3-83523CC16C6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3965FE09-380A-4DC1-8EF3-83523CC16C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3965FE09-380A-4DC1-8EF3-83523CC16C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3965FE09-380A-4DC1-8EF3-83523CC16C6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
